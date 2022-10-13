@@ -1,0 +1,12 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ú™äÔøÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "queue3".(Õƒ¸Œøÿÿÿÿ
+F
+java:S1481"+Remove this unused "queue3" local variable.(Õƒ¸Œøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(øý¼ðùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Œå¬¿
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(—í¹¢
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ëŠÓåûÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(æ˜ñÖ

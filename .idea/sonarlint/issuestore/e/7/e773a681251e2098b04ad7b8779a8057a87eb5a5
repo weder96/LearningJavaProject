@@ -1,0 +1,15 @@
+
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ò¢×‹ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¢×‹ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°
+S
+java:S3878"8Remove this array creation and simply pass the elements.(Ş²¦Ôüÿÿÿÿ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(äŞÒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äŞÒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†»å«úÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ßÊğŒ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(—äÒ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¸Ó¡­
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(—äÒ

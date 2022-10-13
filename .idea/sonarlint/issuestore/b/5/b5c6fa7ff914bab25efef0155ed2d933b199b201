@@ -1,0 +1,14 @@
+
+G
+java:S1602",Remove useless curly braces around statement(„Ï¢•øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„Ï¢•øÿÿÿÿ
+B
+java:S1602	",Remove useless curly braces around statement(©òŠÏ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(©òŠÏ
+N
+java:S1602
+",Remove useless curly braces around statement(ÀÕä÷üÿÿÿÿ8êª‚ÂÔ/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÀÕä÷üÿÿÿÿ8ëª‚ÂÔ/
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¨Ì‚ÂÔ/

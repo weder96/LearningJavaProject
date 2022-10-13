@@ -1,0 +1,20 @@
+
+J
+java:S1611
+"/Remove the parentheses around the "p" parameter(½„¥¬üÿÿÿÿ
+[
+java:S1612
+"@Replace this lambda with method reference 'System.out::println'.(½„¥¬üÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(½„¥¬üÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "p" parameter(©ÑÐ»úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ÑÐ»úÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "p" parameter(Æä¬¨
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æä¬¨
+J
+java:S1611"/Remove the parentheses around the "p" parameter(ô˜Âèüÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "p" parameter(»õ™œ
+V	java:S125"<This block of commented-out lines of code should be removed.(«¹ÔÝøÿÿÿÿ
