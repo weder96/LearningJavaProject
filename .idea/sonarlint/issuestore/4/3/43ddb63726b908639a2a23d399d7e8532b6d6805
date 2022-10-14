@@ -1,11 +1,0 @@
-
-O
-java:S1854"9Remove this useless assignment to local variable "nomes".(Ñ±ˆ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(ûà‰™ùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Îì—àüÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(ªòıo
-@
-java:S1481"*Remove this unused "nomes" local variable.(Ñ±ˆ
-X
-java:S1128"=Remove this unused import 'br.com.yohana.repository.Address'.(Ëí”Šüÿÿÿÿ

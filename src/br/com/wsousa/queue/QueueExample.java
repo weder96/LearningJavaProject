@@ -1,6 +1,6 @@
-package br.com.yohana.queue;
+package br.com.wsousa.queue;
 
-import br.com.yohana.model.Customer;
+import br.com.wsousa.model.Customer;
 
 import java.util.*;
 

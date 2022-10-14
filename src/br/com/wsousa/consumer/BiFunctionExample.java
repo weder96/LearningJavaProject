@@ -1,15 +1,12 @@
-package br.com.yohana.consumer;
+package br.com.wsousa.consumer;
 
-import java.math.BigDecimal;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.function.BiFunction;
 
-import java.util.List;
-import java.util.function.Consumer;
 import java.util.function.Predicate;
-import br.com.yohana.repository.*;
+import br.com.wsousa.repository.*;
 
 public class BiFunctionExample {
     static BiFunction<String, String, String>  bf1 = (a, b) -> (a+" - "+b);

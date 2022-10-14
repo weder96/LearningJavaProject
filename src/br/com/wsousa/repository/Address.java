@@ -1,4 +1,4 @@
-package br.com.yohana.repository;
+package br.com.wsousa.repository;
 
 public class Address {
     String block, city, state, country;

@@ -1,4 +1,4 @@
-package br.com.yohana.model;
+package br.com.wsousa.model;
 
 public class Customer {
     private String firstName;

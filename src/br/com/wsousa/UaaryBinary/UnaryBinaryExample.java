@@ -1,4 +1,4 @@
-package br.com.yohana.UaaryBinary;
+package br.com.wsousa.UaaryBinary;
 
 import java.util.Comparator;
 import java.util.function.BinaryOperator;

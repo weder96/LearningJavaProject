@@ -1,4 +1,4 @@
-package br.com.yohana.model;
+package br.com.wsousa.model;
 
 public class Gerente extends Funcionario implements Autenticavel {
 

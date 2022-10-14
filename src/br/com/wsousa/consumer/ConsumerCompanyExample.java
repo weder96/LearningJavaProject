@@ -1,10 +1,10 @@
-package br.com.yohana.consumer;
+package br.com.wsousa.consumer;
 
 import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-import br.com.yohana.repository.*;
+import br.com.wsousa.repository.*;
 public class ConsumerCompanyExample {
 
     static Consumer<Company> c1 = (p) -> System.out.println(p);

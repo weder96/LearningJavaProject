@@ -1,8 +1,8 @@
-package br.com.yohana.supplier;
+package br.com.wsousa.supplier;
 
 import java.util.List;
 import java.util.function.Supplier;
-import br.com.yohana.repository.*;
+import br.com.wsousa.repository.*;
 
 public class SupplierExample {
     static Supplier<List<Company>> s1 = () -> CompanyRepository.getAllCompanies();

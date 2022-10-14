@@ -1,4 +1,4 @@
-package br.com.yohana.string;
+package br.com.wsousa.string;
 
 public class ExecutoraTestBuilder {
     public static void main(String[] args) {

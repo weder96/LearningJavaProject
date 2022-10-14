@@ -1,7 +1,7 @@
 package exec;
 
-import br.com.yohana.enums.Meses;
-import br.com.yohana.generics.Pair;
+import br.com.wsousa.enums.Meses;
+import br.com.wsousa.generics.Pair;
 
 import java.util.ArrayList;
 import java.util.List;

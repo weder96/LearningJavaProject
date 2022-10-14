@@ -1,6 +1,6 @@
 package exec;
 
-import br.com.yohana.model.*;
+import br.com.wsousa.model.*;
 
 public class Principal {
     public static void main(String[] args) {

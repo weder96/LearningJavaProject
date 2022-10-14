@@ -1,4 +1,4 @@
-package br.com.yohana.queue;
+package br.com.wsousa.queue;
 
 import java.util.LinkedList;
 import java.util.Queue;

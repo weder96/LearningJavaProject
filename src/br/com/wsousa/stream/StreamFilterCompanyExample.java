@@ -1,4 +1,4 @@
-package br.com.yohana.stream;
+package br.com.wsousa.stream;
 
 import java.util.Arrays;
 import java.util.List;

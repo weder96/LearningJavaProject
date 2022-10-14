@@ -1,4 +1,4 @@
-package br.com.yohana.enums;
+package br.com.wsousa.enums;
 
 public enum Meses {
     JANUARY(1, "January", "MVP"),

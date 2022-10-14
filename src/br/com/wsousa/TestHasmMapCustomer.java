@@ -1,10 +1,10 @@
-package br.com.yohana;
+package br.com.wsousa;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import br.com.yohana.model.Customer;
+import br.com.wsousa.model.Customer;
 public class TestHasmMapCustomer {
         public static void main(String[] args) {
             Map<String, List<Customer>> nomesMap = new HashMap<>();

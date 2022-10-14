@@ -1,4 +1,4 @@
-package br.com.yohana.string;
+package br.com.wsousa.string;
 
 public class MyClassExecute {
     public static void main(String[] args) {

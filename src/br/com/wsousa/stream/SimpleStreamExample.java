@@ -1,7 +1,7 @@
-package br.com.yohana.stream;
+package br.com.wsousa.stream;
 
-import br.com.yohana.repository.Company;
-import br.com.yohana.repository.CompanyRepository;
+import br.com.wsousa.repository.Company;
+import br.com.wsousa.repository.CompanyRepository;
 
 import java.util.List;
 import java.util.Map;

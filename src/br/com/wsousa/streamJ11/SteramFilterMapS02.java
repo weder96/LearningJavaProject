@@ -1,4 +1,4 @@
-package br.com.yohana.streamJ11;
+package br.com.wsousa.streamJ11;
 
 import java.util.*;
 import java.util.stream.Collectors;

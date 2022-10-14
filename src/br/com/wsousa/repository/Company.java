@@ -1,4 +1,4 @@
-package br.com.yohana.repository;
+package br.com.wsousa.repository;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

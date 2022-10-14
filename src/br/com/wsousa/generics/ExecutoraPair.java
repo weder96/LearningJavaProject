@@ -1,6 +1,4 @@
-package br.com.yohana.generics;
-
-import br.com.yohana.repository.Address;
+package br.com.wsousa.generics;
 
 import java.util.ArrayList;
 

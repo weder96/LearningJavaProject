@@ -1,4 +1,4 @@
-package br.com.yohana.stackExample;
+package br.com.wsousa.stackExample;
 
 import java.util.Stack;
 

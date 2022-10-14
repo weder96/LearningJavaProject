@@ -1,17 +1,0 @@
-
-u
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÖĞ©¦
-G
-java:S1481"1Remove this unused "concatString" local variable.(¨³ÜÓ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¯­µÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‹İµûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ôŞÅ
-;
-java:S2129" Remove this "String" constructor(Ù¤¾ìøÿÿÿÿ
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(ê°Œé
-f
-java:S1192"PDefine a constant instead of duplicating this literal " another string" 3 times.(ë¨â
-2
-java:S1643"Use a StringBuilder instead.(ë¨â
-7
-java:S1643"Use a StringBuilder instead.(Ù¤¾ìøÿÿÿÿ

@@ -1,4 +1,4 @@
-package br.com.yohana.generics;
+package br.com.wsousa.generics;
 
 public class Pair <K, V> {
     private K key;

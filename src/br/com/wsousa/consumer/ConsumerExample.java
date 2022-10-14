@@ -1,4 +1,4 @@
-package br.com.yohana.consumer;
+package br.com.wsousa.consumer;
 
 import java.util.function.Consumer;
 

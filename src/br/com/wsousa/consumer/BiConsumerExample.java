@@ -1,7 +1,6 @@
-package br.com.yohana.consumer;
+package br.com.wsousa.consumer;
 
 import java.util.function.BiConsumer;
-import java.util.function.Consumer;
 
 public class BiConsumerExample {
     public static void main(String[] args) {

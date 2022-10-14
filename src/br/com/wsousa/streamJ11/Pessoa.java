@@ -1,4 +1,4 @@
-package br.com.yohana.streamJ11;
+package br.com.wsousa.streamJ11;
 
 public class Pessoa {
     private String nome;
